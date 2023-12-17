@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "900827948942",
+    "project_id": "cj-vina-qr",
+    "storage_bucket": "cj-vina-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900827948942:android:6293d9eb5e0612cfc7a6df",
+        "android_client_info": {
+          "package_name": "sfin.cjvina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900827948942-5drl0080k6jt2bquoff1bgofstaf7gjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmvD_k9V-MlkQ-Y6j-97xEVX_xzWs4yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900827948942-5drl0080k6jt2bquoff1bgofstaf7gjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900827948942-lo2hlefdlh9qqjuj6itrqsofitncrdu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sfin.cjvina"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

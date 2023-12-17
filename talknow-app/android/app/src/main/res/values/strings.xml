@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TalkNow</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">P3wDOz55C5hDYmK_IlbnVp0y3egjuGsYw022V</string>
+</resources>

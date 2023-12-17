@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "600223451498",
+    "project_id": "sshop-dev",
+    "storage_bucket": "sshop-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600223451498:android:87663ccf6718a6bdb97d13",
+        "android_client_info": {
+          "package_name": "com.ChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600223451498-l5c0hmar6t28v8juo44od39pihranb43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ChatApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "600223451498-qqnjk1s5dkon9b8f40aa9jutbstp9f95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcC97J1W_jbGGvZ0B8R9TNeR6PTp7luM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600223451498-qqnjk1s5dkon9b8f40aa9jutbstp9f95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600223451498-9l6u1butirasqp5e7ebrvajt0t4e8eki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sfin.sshop",
+                "app_store_id": "1629584008"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600223451498:android:1a8da6c7bbfd2e96b97d13",
+        "android_client_info": {
+          "package_name": "sfin.sshop.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600223451498-15biv48504p8jstpslmrkm2nphk1ju1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sfin.sshop.vn",
+            "certificate_hash": "85847b257ee41132a67aa4e424c2ce7b6a43f26f"
+          }
+        },
+        {
+          "client_id": "600223451498-qqnjk1s5dkon9b8f40aa9jutbstp9f95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcC97J1W_jbGGvZ0B8R9TNeR6PTp7luM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600223451498-qqnjk1s5dkon9b8f40aa9jutbstp9f95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600223451498-9l6u1butirasqp5e7ebrvajt0t4e8eki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sfin.sshop",
+                "app_store_id": "1629584008"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
